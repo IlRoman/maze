@@ -14,7 +14,10 @@ const App = ({ setStartingCell, startingCell, setCurrentCell, currentCell, setAr
     useEffect(() => {
         if (gameStatus === 'you lost' || gameStatus === 'you won') {
             setTimeout(() => {
-                window.location.reload()
+                let replay = window.confirm('Do you want to replay?')
+                if (replay) {
+                    window.location.reload()
+                }
             }, 2000)
         }
     }, [gameStatus])
