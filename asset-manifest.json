@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maze/static/css/main.8f394e25.chunk.css",
+    "main.js": "/maze/static/js/main.e4797a09.chunk.js",
+    "main.js.map": "/maze/static/js/main.e4797a09.chunk.js.map",
+    "runtime-main.js": "/maze/static/js/runtime-main.b63a93ea.js",
+    "runtime-main.js.map": "/maze/static/js/runtime-main.b63a93ea.js.map",
+    "static/js/2.51d07da9.chunk.js": "/maze/static/js/2.51d07da9.chunk.js",
+    "static/js/2.51d07da9.chunk.js.map": "/maze/static/js/2.51d07da9.chunk.js.map",
+    "index.html": "/maze/index.html",
+    "precache-manifest.74831b7f041f5173120a843c920f3fba.js": "/maze/precache-manifest.74831b7f041f5173120a843c920f3fba.js",
+    "service-worker.js": "/maze/service-worker.js",
+    "static/css/main.8f394e25.chunk.css.map": "/maze/static/css/main.8f394e25.chunk.css.map",
+    "static/js/2.51d07da9.chunk.js.LICENSE.txt": "/maze/static/js/2.51d07da9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b63a93ea.js",
+    "static/js/2.51d07da9.chunk.js",
+    "static/css/main.8f394e25.chunk.css",
+    "static/js/main.e4797a09.chunk.js"
+  ]
+}
